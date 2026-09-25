@@ -154,4 +154,4 @@ if returns.shape[1] > 1:
         width="stretch",
     )
 
-st.caption("Data: Yahoo Finance via yfinance. Educational use only — not investment advice.")
+st.caption("Data: Yahoo Finance via yfinance.")
